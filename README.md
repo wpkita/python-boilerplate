@@ -9,4 +9,5 @@ A quick way to get started with a simple Python project (probably CLI-based)
     eval "$(pyenv init -)"
     eval "$(direnv hook bash)"
     ```
-    
+* `pyenv update`
+* `pyenv install **whatever-version-is-in.envrc**`
