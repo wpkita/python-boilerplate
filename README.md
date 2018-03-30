@@ -11,3 +11,4 @@ A quick way to get started with a simple Python project (probably CLI-based)
     ```
 * `pyenv update`
 * `pyenv install **whatever-version-is-in.envrc**`
+* `direnv allow`
